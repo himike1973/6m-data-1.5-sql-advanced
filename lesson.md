@@ -207,5 +207,5 @@ SELECT * FROM state_ranked WHERE state_rank <= 2;
 3. **CTEs are readability tools** — use them to break complex queries into named, logical steps that can be reviewed and debugged independently.
 
 ### Next Steps
-- **Post-Class:** Complete the [Insurance Auditor Project](./post-class.md) — 3 targeted challenges + a multi-table CTE capstone (45–60 min).
+- **Post-Class:** Complete the [Insurance Auditor Project](./assignment.md) — 3 targeted challenges + a multi-table CTE capstone (45–60 min).
 - **Next Lesson:** Lesson 1.6 transitions from SQL to Python, introducing NumPy as the numerical foundation for data science.
